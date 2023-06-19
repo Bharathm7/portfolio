@@ -10,13 +10,13 @@ class Footer extends Component {
                         <div className="row justify-content-center">
                             <div className="col-md-6 text-center">
                                 <div className="social-icons">
-                                    <a href="https://www.linkedin.com/your-profile" target="_blank" rel="noopener noreferrer" className="social-icon">
+                                    <a href="https://www.linkedin.com/Bharath M" target="_blank" rel="noopener noreferrer" className="social-icon">
                                         <FontAwesomeIcon icon={faLinkedin} size="2x" />
                                     </a>
-                                    <a href="https://www.github.com/your-username" target="_blank" rel="noopener noreferrer" className="social-icon">
+                                    <a href="https://www.github.com/Bharathm7" target="_blank" rel="noopener noreferrer" className="social-icon">
                                         <FontAwesomeIcon icon={faGithub} size="2x" />
                                     </a>
-                                    <a href="https://twitter.com/your-handle" target="_blank" rel="noopener noreferrer" className="social-icon">
+                                    <a href="https://twitter.com/bharathmahesh69" target="_blank" rel="noopener noreferrer" className="social-icon">
                                         <FontAwesomeIcon icon={faTwitter} size="2x" />
                                     </a>
                                 </div>
